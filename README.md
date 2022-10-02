@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BahruDa
+- 👋 Hi, I’m Bahru Dari from Ethiopia.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning software Engineering in alx cohort 10.
 - 💞️ I’m looking to collaborate on alx intranet projects.
