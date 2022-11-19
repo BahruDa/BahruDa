@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning software Engineering in alx cohort 10.
 - 💞️ I’m looking to collaborate on alx intranet projects.
-- 📫 How to reach me: bahrudari68@gmail.com
+- 📫 How to reach me: Twitter, @Bahrudari
 
 <!---
 BahruDa/BahruDa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
